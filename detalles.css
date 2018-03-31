@@ -16,7 +16,9 @@
 	color:#D98F77;
 	font-size:25px;
 	background-color:#FFFFFF;
-   }	  
+   }
+
+/*se repite el código. podrias ponerlo todo en una clase y darle la clase a todos los elementos que quieras con ese estilo. */
 .derecha{
 	     background-color:#FFFFFF;
          float:right;
@@ -50,10 +52,11 @@
        font-size:17px;
 	   background-color:#FFFFFF;
       }	  
-#li{
+.li{
    background-color:#FFFFFF;
   }
-#forma{
+/* usar menos id y mas class, de esa manera podemos reutilizar los estilos dados. */
+.uno{
       font-size:18px;
 	  background-color:#FFFFFF;
 	  padding:0px 0px 0px 0px;
@@ -61,14 +64,6 @@
 	  border-bottom:5px solid;
 	  border-color:#9BA7E8;
      }
-#expe{
-	font-size:18px;
-	background-color:#FFFFFF;
-	padding:0px 0px 0px 0px;
-	margin:0px;
-	border-bottom:5px solid;
-	border-color:#9BA7E8;
-    }
 #foto{
       width:17%;
 	  margin:0px 0px 0px 5px;
@@ -82,27 +77,7 @@
 	 height:500px;
 	 background-color:#CCCCCC;
 	 }
-#ot1{
-	background-color:#9BA7E8;
-	padding:5px;
-	color:#000000;
-	border-radius:5px;
-	border:2px solid;
-	border-color:#197C94;
-	line-height:60px;
-	font-size:140%;
-   }
-#ot2{
-	background-color:#9BA7E8;
-	padding:5px;
-	color:#000000;
-	border-radius:5px;
-	border:2px solid;
-	border-color:#197C94;
-	line-height:60px;
-	font-size:140%;
-   }
-#ot3{
+.ot{
 	background-color:#9BA7E8;
 	padding:5px;
 	color:#000000;
