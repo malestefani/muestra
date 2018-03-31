@@ -1,0 +1,135 @@
+#titulo{
+	    font-family:arial,verdana,tohoma;
+		color:#CC3614;
+		background-color:#FFFFFF;
+		margin:5px 0px 0px 0px;
+		border-bottom:2px solid;
+		border-top:2px solid;
+	    border-color:#9BA7E8;
+       }
+#nombre{
+		color:#197C94;
+		font-size:35px;
+		background-color:#FFFFFF;
+       }
+#jr{
+	color:#D98F77;
+	font-size:25px;
+	background-color:#FFFFFF;
+   }	  
+.derecha{
+	     background-color:#FFFFFF;
+         float:right;
+         width:80%;
+		 border:7px solid;
+		 border-radius:15px;
+		 border-color:#FFFFFF;
+        }
+.sp{
+    background-color:#FFFFFF;
+	margin:10px 0px 0px 0px;
+    float:right;
+    width:80%;
+	border:7px solid;
+	border-radius:15px;
+	border-color:#FFFFFF;
+   }
+.tp{
+    background-color:#FFFFFF;
+	margin:10px 0px 0px 0px;
+    float:right;
+    width:80%;
+	border:7px solid;
+	border-radius:15px;
+	border-color:#FFFFFF;
+   }
+.datos{
+	background-color:#FFFFFF;
+}
+#datos{
+       font-size:17px;
+	   background-color:#FFFFFF;
+      }	  
+#li{
+   background-color:#FFFFFF;
+  }
+#forma{
+      font-size:18px;
+	  background-color:#FFFFFF;
+	  padding:0px 0px 0px 0px;
+	  margin:0px;
+	  border-bottom:5px solid;
+	  border-color:#9BA7E8;
+     }
+#expe{
+	font-size:18px;
+	background-color:#FFFFFF;
+	padding:0px 0px 0px 0px;
+	margin:0px;
+	border-bottom:5px solid;
+	border-color:#9BA7E8;
+    }
+#foto{
+      width:17%;
+	  margin:0px 0px 0px 5px;
+     }
+#p{
+	background-color:#FFFFFF;
+   }
+.izq{
+	 padding:0;
+	 width:19%;
+	 height:500px;
+	 background-color:#CCCCCC;
+	 }
+#ot1{
+	background-color:#9BA7E8;
+	padding:5px;
+	color:#000000;
+	border-radius:5px;
+	border:2px solid;
+	border-color:#197C94;
+	line-height:60px;
+	font-size:140%;
+   }
+#ot2{
+	background-color:#9BA7E8;
+	padding:5px;
+	color:#000000;
+	border-radius:5px;
+	border:2px solid;
+	border-color:#197C94;
+	line-height:60px;
+	font-size:140%;
+   }
+#ot3{
+	background-color:#9BA7E8;
+	padding:5px;
+	color:#000000;
+	border-radius:5px;
+	border:2px solid;
+	border-color:#197C94;
+	line-height:60px;
+	font-size:140%;
+   }
+#lista{
+	  list-style:none;
+      margin:0;
+	  padding:5% 10%;
+    }
+ol{
+	list-style:none;
+	border:0;
+	padding:10px;
+	margin:0;
+	background-color:#9BA7E8;
+  }
+li a:hover{
+	       background:#FFFFFF;
+		   color:#000000;
+          }
+	 
+	 
+	 
+	 
+	 

@@ -1,0 +1,55 @@
+#titulo{
+	    font-family:arial,verdana,tohoma;
+		color:#FFEBC4;
+		background-color:#FFFFFF;
+       }
+#nombre{
+		color:#9BA7E8;
+		font-size:35px;
+		background-color:#FFFFFF;
+       }
+#jr{
+	color:#D98F77;
+	font-size:25px;
+	background-color:#FFFFFF;
+   }	   
+#padding{
+         padding:20px;
+         padding-bottom:20px;
+         border-style:solid;
+         border-width:5px;
+         border-color:#FFEBC4;
+		 border-bottom:5px solid ##9BA7E8;
+		 margin:12px;
+		 margin-top:13px;
+		 margin:10px 12px 20px 50px;
+		 margin:20px 50px;
+		 clear:both;
+        }
+.izq li{
+	   list-style-type:none;
+	   width:220px;
+	  }
+.izq ul{
+	   padding:0;
+	   width:220px;
+	   font-size:18px;
+	  }
+#foto{
+      width:17%;
+     }	  
+.derecha{
+         float:right;
+         width:82%;
+		 background-color:#FFFFFF;
+        }
+#datos{
+       font-size:18px;
+	   background-color:#FFFFFF;
+      }	  
+li{
+   background-color:#FFFFFF;
+  }
+#ot{
+	background-color:#CCCCCC;
+   }
